@@ -1,1 +1,1 @@
-Just mean learning about Rust
+Just me learning about Rust
